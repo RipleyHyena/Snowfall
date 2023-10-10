@@ -113,6 +113,10 @@ Snowfall does not come with any ENB or Reshade. Community shaders with Light Lim
 
 ## Playing the List
 
+### Lights
+
+Having a lantern or torch dynamically adds a portable light source.
+
 ### Starting up the list
 Open the installation folder and double click on the program called `ModOrganizer.exe`. 
 
