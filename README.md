@@ -1,5 +1,5 @@
 # Snowfall
-Requiem Lite for those that don't have much time to play. Focus is on immersion and roleplaying without tedious micromanagement or silly powers/menuing.
+Requiem Lite for those that don't have much time to play. Focus is on immersion and roleplaying without tedious micromanagement or silly menuing.
 
 ![image](placeholder)
 
