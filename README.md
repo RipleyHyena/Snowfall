@@ -40,7 +40,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 ## System Requirements
 
-If you can run the vanilla game, you can run Snowfall.
+4GB VRAM minimum
 
 ## Installation
 
