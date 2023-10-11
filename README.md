@@ -162,7 +162,7 @@ Simply delete the folder, and you have uninstalled it.
 
 ## Contact
 
-Whilst I am available primarily on [my server](placeholder), please check the [issues](https://github.com/RipleyHyena/Snowfall/issues) tab on github first if you have any issues. DO NOT DM ME ON DISCORD. DO NOT STALK ME ON GITHUB.  (Yes this was an issue once)
+Whilst I am available primarily on [Aetherius Modding](placeholder), please check the [issues](https://github.com/RipleyHyena/Snowfall/issues) tab on github first if you have any issues. DO NOT DM ME ON DISCORD. DO NOT STALK ME ON GITHUB.
 
 ## The Animonculory Team
 - Althro - Leader & Head of Development
