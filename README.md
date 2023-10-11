@@ -1,5 +1,10 @@
 # Snowfall
-Requiem Lite for those that don't have much time to play. Focus is on immersion and roleplaying without tedious micromanagement or silly menuing.
+Requiem Lite for those that don't have much time to play. Focus is on immersion and roleplaying without tedious micromanagement or silly menuing. Accessibility regarding hardware and controller use are considered. 
+
+### Warnings! 
+
+- Those with epilepsy can and should disable Storm Lightning (Minty SSE), as well as True Storms and its compatibility patch.
+
 
 ![image](placeholder)
 
