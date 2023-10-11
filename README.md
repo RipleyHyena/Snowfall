@@ -120,7 +120,7 @@ Snowfall does not come with any ENB or Reshade. Community shaders with Light Lim
 
 ### Lights
 
-Having a lantern item dynamically adds a portable light source. Press L once to turn on, twice to turn off. It also doesn't display under certain conditions.
+Hold E or activate button on gamepad to turn on a nifty lantern. Do the same with nothing targeted to turn it off. 
 
 ### Starting up the list
 Open the installation folder and double click on the program called `ModOrganizer.exe`. 
