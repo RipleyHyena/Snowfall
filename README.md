@@ -155,7 +155,9 @@ Simply delete the folder, and you have uninstalled it.
 
 - _YOU_ for reading this.
 - The Animonculory Team.
-- Phoenix for Legends of the Frost, upon which I forked here, and learned how AE lists are handled.
+  
+- Phoenix for Legends of the Frost, upon which I forked here, and learned how AE lists are handled. I took too long of a break from Skyrim and Wabbajack, and their list proved invaluable as a jumping off point.
+
 - Halgari and the WJ Team - Wabbajack is awesome and so are you.
 
 ## Contact
