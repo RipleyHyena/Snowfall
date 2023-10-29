@@ -79,7 +79,7 @@ Downloading and installing Snowfall can take a while depending on your internet 
 3. Set the installation folder to be somewhere like `C:\Games\Snowfall`. **Do not install it to your desktop or downloads folder.**
 4. The download location does not need to be on a SSD but it makes installing a bit faster
 5. Press the play button to begin.
-6. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
+6. probably read through this readme again.
 7. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
 
 ##### Problems with installation
@@ -120,7 +120,7 @@ Snowfall does not come with any ENB or Reshade. Community shaders with Light Lim
 
 ### Lights
 
-Hold E or activate button on gamepad to turn on a nifty lantern. Do the same with nothing targeted to turn it off. 
+Hold E or A/X button on gamepad to turn on a nifty lantern. Do the same with nothing targeted to turn it off. 
 
 ### Starting up the list
 Open the installation folder and double click on the program called `ModOrganizer.exe`. 
@@ -134,7 +134,7 @@ Make sure the dropdown box on the right is set to `SKSE` and press the `Run` but
 	
 ## Adding mods to Snowfall
 
-All the tools you require to add mods to this list are included in the download. If you want some general tips on how to safely mod, visit the [Modding Tutorials](https://github.com/The-Animonculory/Modding-Resources) repository.
+If you want some general tips on how to safely mod, visit the [Modding Tutorials](https://github.com/The-Animonculory/Modding-Resources) repository.
 
 ### Anniversary Edition
 
