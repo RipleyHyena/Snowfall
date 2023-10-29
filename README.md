@@ -158,7 +158,9 @@ Simply delete the folder, and you have uninstalled it.
   
 - Phoenix for Legends of the Frost, upon which I forked here, and learned how AE lists are handled. I took too long of a break from Skyrim and Wabbajack, and their list proved invaluable as a jumping off point.
 
-- Halgari and the WJ Development Team 
+- Halgari and the WJ Development Team
+  
+- Noggog for Synthesis and infinite patience 
 
 ## Contact
 
