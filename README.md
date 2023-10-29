@@ -160,7 +160,9 @@ Simply delete the folder, and you have uninstalled it.
 
 - Halgari and the WJ Development Team
   
-- Noggog for Synthesis and infinite patience 
+- Noggog for Synthesis and infinite patience
+
+- Xanza, Slim, Luca for being my good friendos
 
 ## Contact
 
